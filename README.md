@@ -87,16 +87,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/mehedinaimulislam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedi-naimul-islam-147418249/" target="_blank">
+<a href="https://www.linkedin.com/in/mehedi-naimul-islam-147418249/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100080167883091" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100080167883091" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCbylXiEFfBWYXov-ZG4wzJA" target="_blank">
+<a href="https://www.youtube.com/channel/UCbylXiEFfBWYXov-ZG4wzJA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
