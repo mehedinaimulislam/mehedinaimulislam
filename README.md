@@ -4,7 +4,7 @@
   
 
 ## <div align="center">Hi there 👋, I'm Naimul Islam Mehedi. 👨‍💻</div>
-### <div align="center"> Ai Engineer </div>
+### <div align="center"> AI Engineer </div>
 ### <div align="center"> working remotely since 2020.🚀 </div>
   
 
