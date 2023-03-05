@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">Hi there 👋, I'm Naimul Islam Mehedi. 👨‍💻 working remotely since 2020 🚀</div>  
+## <div align="center">Hi there 👋, I'm Naimul Islam Mehedi. 👨‍💻</div>
+### <div align="center"> Ai Engineer </div>
+### <div align="center"> working remotely since 2020.🚀 </div>
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/mehedinaimulislam)  
