@@ -9,7 +9,7 @@
  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/mehedinaimulislam)  
+- 🔭 I’m currently working on [Mehedi's GitHub](https://github.com/mehedinaimulislam)  
   
 
 - 🌱 I’m currently learning Data Science.  
