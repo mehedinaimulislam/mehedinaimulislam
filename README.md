@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2017/08/07/07/41/mountain-2601107_960_720.jpg" align="center" style="width: 50%" />
+<img src="https://pixabay.com/photos/mountain-highland-valley-ridge-2601107/" align="center" style="width: 50%" />
 </div>  
   
 
