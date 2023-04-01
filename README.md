@@ -3,18 +3,15 @@
 </div>  
   
 
-  ## <div align="center">Hi there 👋, I'm Naimul Islam Mehedi. 👨‍ </div>
+  ## <div align="center">Hi there 👋, I'm Naimul Islam Mehedi 👨‍ </div>
   ### <div align="center">AI Engineer 💻 </div> 
   ### <div align="center">Working remotely since 2020 🚀 </div> 
  
   
 
 - 🔭 I’m currently working on [Mehedi's GitHub](https://github.com/mehedinaimulislam)  
+ 
   
-
-- 🌱 I’m currently learning Data Science.  
-  
-
 - ❓ Ask me about anything related to Artificial Intelligence, Machine Learning and Data Science related technologies.  
   
 
